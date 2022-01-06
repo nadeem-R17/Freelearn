@@ -1,2 +1,15 @@
 # webfreelearn
-It is an online platform which contains all the free study materials ,courses and test stuff. This platform consists of one of best study materials availaible on the internet. The performance of the student is also tracked which helps the student for analyzing his/her problems and rectifying thus improving the performance of the individual. It also includes an internal search engine in order to serach for different topics. Enjoy😉.
+Domain: - Web Development
+
+Idea: - The main aim of this website is to provide free and structured education to all.
+        The goal of my project is to help all those people who have lack of education resources by providing them with the best and structured free courses.
+        We thought to achieve the aim by building an awesome website which will be easily accessible and easy to use.
+        
+Achievement: - The website consists of awesome features which includes:
+                o	Dynamic response
+                o	User account
+                o	JEE, NEET and Boards structured materials which includes test, courses in the form of videos, notes and materials
+                o	All the important date of the exams
+                o	Inspiring quotes
+                
+How to run: - https://freelearnweb.herokuapp.com/
