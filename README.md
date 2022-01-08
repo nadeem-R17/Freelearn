@@ -30,8 +30,10 @@ login page
 
 Team details:
 Team-Name:Alpha
+
 Team-Leader: Swarnim Kamal
-Team-members: Nadeem Raza
+
+Team-members: Nadeem Raza,
               Asad-ul-Haque
 
 
